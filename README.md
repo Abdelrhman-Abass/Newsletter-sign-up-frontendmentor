@@ -28,7 +28,7 @@ Your users should be able to:
 
 ### Links
 
-- Live Site: [Add live site URL here](https://your-live-site-url.com)
+- Live Site: [live site]([https://your-live-site-url.com](https://abdelrhman-abass.github.io/Newsletter-sign-up-frontendmentor/)
 
 ### Built with
 
