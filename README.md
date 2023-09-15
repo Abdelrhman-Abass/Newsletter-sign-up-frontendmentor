@@ -1,16 +1,30 @@
-# Frontend Mentor - Product Preview Card Component solution
+# Frontend Mentor - Newsletter sign-up form with success message
+
+
+## Welcome! 👋
+
 
 ### The challenge
 
-Users should be able to:
+The challenge is to build out this newsletter form and get it looking as close to the design as possible.
 
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+
+Your users should be able to:
+
+- Add their email and submit the form
+- See a success message with their email after successfully submitting the form
+- See form validation messages if:
+  - The field is left empty
+  - The email address is not formatted correctly
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
+
 ### Screenshot
 
-![](./images/Screenshot%202023-09-13%20172219.png)
-![](./images/Screenshot%202023-09-13%20172324.png)
+![](./solution/Screenshot%202023-09-15%20101220.png)
+![](./solution/Success%20message.png)
 
 ### Links
 
@@ -20,7 +34,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Gridbox
 - Bootstrap 5
 - Mobile workflow
 
@@ -28,5 +42,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Abdelrhman-Abass)
-
 
